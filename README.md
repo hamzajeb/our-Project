@@ -33,7 +33,7 @@ Answer of the first question with _italic words_.
 To answer this question we use an unordered list:
 * First point
 * Second Point
-* Third point
+* Third points
 3. **Third question in bold**
 Answer of the third question with *italic words*.
 4. **Fourth question in bold**
