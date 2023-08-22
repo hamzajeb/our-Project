@@ -10,3 +10,10 @@ API Integration: Integration between the backend API (built with FastAPI) and th
 PostgreSQL Database: The application employs PostgreSQL as the relational database management system. PostgreSQL's reliability, extensibility, and advanced features make it a preferred choice for storing and managing structured data. The backend communicates with the database to store, retrieve, and manipulate information.
 Docker Containerization: The skeleton includes Dockerfiles for both the frontend and backend components. Docker provides a consistent and isolated environment for development, testing, and deployment. This approach ensures that the application runs consistently across different environments, minimizing potential deployment issues.
 docker-compose.yml: The docker-compose.yml file orchestrates the deployment of the frontend, backend, and database containers. It simplifies the setup by defining the services, their configurations, and dependencies. With a single command, developers can start the entire application stack, facilitating collaboration and testing.
+
+## Technologies
+***
+A list of technologies used within the project:
+* [Technologie name](https://example.com): Version 12.3
+* [Technologie name](https://example.com): Version 2.34
+* [Library name](https://example.com): Version 1234
