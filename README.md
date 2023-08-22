@@ -16,7 +16,7 @@ The backend of the web project is built using FastAPI, a high-performance web fr
 
 1. **api:** The 'api' folder is where you'll define the routes and business logic of your application's API. You would have separate files for each route or set of related routes. These files define the HTTP endpoints, request handling, and API logic.
 2. **core:** This folder is the heart of your backend application, containing essential configurations and settings, such as settings for environment variables, application parameters, and other crucial configurations needed to run your application.
-3. **database:** The 'database' folder contains everything related to the database interactions of your application.
+3. **database:** The 'database' folder contains everything related to the database interactions of your application:
 * **connection.py**: Here, you'll find code related to establishing connections to your database. This might include database connection settings, database engine setup.
 4. **models:** This folder would contain the data models or schema definitions for your application's database tables. These models define the structure of your data and how it's stored in the database.
 5. **requirements.txt:** The 'requirements.txt' file is used to specify the dependencies your project relies on. These dependencies will be installed when setting up your application. This file is particularly useful when you're using Docker to containerize your application, ensuring that the necessary dependencies are included.
