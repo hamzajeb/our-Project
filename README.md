@@ -1,1 +1,1 @@
-# our-Project
+# STM-skeleton
